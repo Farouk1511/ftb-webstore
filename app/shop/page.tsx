@@ -15,6 +15,7 @@ import {
 } from "@/components/ui/accordion";
 import Image from "next/image";
 import Link from "next/link";
+import { Metadata } from "next/types";
 
 export const metadata: Metadata = {
   title: "Clothing | FRNR",
@@ -51,7 +52,7 @@ export default function Store() {
         <p className="leading-7 [&:not(:first-child)]:mt-6 w-5/12">
           We offer a wide range of designer clothing for all occasions, no
           matter it is a special occasion in life, a casual vacation look or a
-          daily working outfit, we've got your back. Choose from our
+          daily working outfit, weve got your back. Choose from our
           well-selected designer brand list including Loewe, Jil Sander, Maison
           Margiela, Burberry and more. Our designer clothing collection covers
           designer tops, skirts, dresses, pants, jackets with different styles
