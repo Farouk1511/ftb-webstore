@@ -10,6 +10,7 @@ import {
 import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
+import { Metadata } from "next/types";
 
 export const metadata: Metadata = {
   title: " GRAPHIC T-SHIRT #7 | FRNR",
