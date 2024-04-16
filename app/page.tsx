@@ -65,6 +65,13 @@ export default function Home() {
               </h3>
             </Link>
           </li>
+          <li>
+            <Link href={"/admin"}>
+              <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight">
+              admin
+              </h3>
+            </Link>
+          </li>
 
         </ul>
       </div>
